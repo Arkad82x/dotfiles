@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/arkad/dev/form_editor/src/components/config_frame'
+let g:netrw_dirhist_2='/home/arkad/dev/form_editor/src/components/config_frame/config_views'
+let g:netrw_dirhist_3='/home/arkad/dev/form_editor/src/components/config_frame/config_views/container_selection'
+let g:netrw_dirhist_4='/home/arkad/dev/form_editor/src'
+let g:netrw_dirhist_5='/home/arkad/dev/form_editor'
